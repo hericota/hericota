@@ -1,15 +1,16 @@
 ## Hello
-# My name is Hericota and you are looking at my GitHub.😂
-
-##
+# My name is Hericota and you are looking at my GitHub.
 
 - 🌱 I’m currently learning Front-End
 - 🤔 I’m looking for help with a job
 - 💬 Ask me about Everthing
 - 📫 How to reach me: [Discord](https://discord.gg/ak4sJSftuX)
 - 😄 Pronouns: He/him
-![NgodingMuluGIF](https://github.com/user-attachments/assets/22d90b52-5e5f-4b88-94cd-6185e6eb72f9)
-
-<div>
-  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+- languages ​​that I use:
+  
+# - Python - JavaScript - React -
+  <div>
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ab866c9e-dd57-41e3-8d19-9cb0ee890b79" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2f1e39c1-dc20-435b-9625-d8b7148d5c29" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fa28bb6c-bbe3-4555-be67-e2adc4e6d979" />
 </div>
