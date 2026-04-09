@@ -6,7 +6,7 @@
 - 💬 Ask me about Everthing
 - 📫 How to reach me: [Discord](https://discord.gg/ak4sJSftuX)
 - 😄 Pronouns: He/him
-- languages ​​that I use:
+- Technologies that I use:
   
 # - Python - JavaScript - React -
   <div>
