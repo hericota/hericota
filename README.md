@@ -9,8 +9,8 @@
 - Technologies that I use:
   
 # - Python - JavaScript - React -
-  <div display: flex; justify-content: space-around;>
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ab866c9e-dd57-41e3-8d19-9cb0ee890b79" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2f1e39c1-dc20-435b-9625-d8b7148d5c29" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fa28bb6c-bbe3-4555-be67-e2adc4e6d979" />
+<div display:"display";justify-content:"center"; align-items:"center">
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ab866c9e-dd57-41e3-8d19-9cb0ee890b79" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2f1e39c1-dc20-435b-9625-d8b7148d5c29" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fa28bb6c-bbe3-4555-be67-e2adc4e6d979" />
 </div>
