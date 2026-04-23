@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/him
 - Technologies that I use:
   
-# - Python - JavaScript - React -
+# - Python - JavaScript - React - HTML - CSS
 <div display:"display";justify-content:"center"; align-items:"center">
   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ab866c9e-dd57-41e3-8d19-9cb0ee890b79" />
   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2f1e39c1-dc20-435b-9625-d8b7148d5c29" />
