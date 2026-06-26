@@ -7,12 +7,7 @@
 - 📫 How to reach me: [Discord](https://discord.gg/ak4sJSftuX)
 - 😄 Pronouns: He/him
 - Technologies that I use:
-  - JavaScript
-  - Python
-  - React
-  - HTML
-  - CSS
-  - Angular
+##- JavaScript - Python - HTML - CSS - React - Angular
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2f1e39c1-dc20-435b-9625-d8b7148d5c29" />
