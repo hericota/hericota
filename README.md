@@ -1,5 +1,5 @@
 ## Hello
-# My name is Hericota and you are looking at my GitHub.
+# My name is Henrique and you are looking at my GitHub.
 
 - 🌱 I'm currently learning Front-End
 - 🤔 I'm looking for help with a job
