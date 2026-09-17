@@ -1,21 +1,70 @@
-## Hello
-# My name is Henrique and you are looking at my GitHub.
+# Olá, eu sou Henrique Galvão
 
-- 🌱 I'm currently learning Front-End
-- 🤔 I'm looking for help with a job
-- 💬 Ask me about Everything
-- 📫 How to reach me: [Discord](https://discord.gg/ak4sJSftuX)
-- 😄 Pronouns: He/him
-- Technologies that I use:
-## JavaScript - Python - HTML - CSS - React - Angular - Typescript
+### Desenvolvedor Full Stack em formação
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2f1e39c1-dc20-435b-9625-d8b7148d5c29" />
-  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ab866c9e-dd57-41e3-8d19-9cb0ee890b79" />
-  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/46cc2744-74f5-43fe-b805-25604b28462b" />
-  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/542b982e-c434-4ba0-871e-4d443a5c59f2" />
-  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fa28bb6c-bbe3-4555-be67-e2adc4e6d979" />
-  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b1e9c4b4-3306-4c83-9730-a1b484949415" />
-  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a25a39e9-fbd5-4bac-b91c-e154f5345542" />
+Sou desenvolvedor com foco atual em **Front-End**, especialmente **Angular e TypeScript**, e também possuo experiência com desenvolvimento **Back-End**. Comecei meus estudos em programação com Python e JavaScript e, ao longo do tempo, ampliei meus conhecimentos para criação de aplicações web completas.
 
-</div>
+Atualmente participo do **Entra21**, onde venho desenvolvendo projetos práticos e aprimorando minhas habilidades em desenvolvimento web, integração com APIs, bancos de dados e deploy de aplicações.
+
+## Tecnologias
+
+### Front-End
+- Angular
+- TypeScript
+- JavaScript
+- React
+- HTML5
+- CSS3
+
+### Back-End e Banco de Dados
+- Java
+- Spring Boot
+- Python
+- Node.js
+- MySQL
+- APIs REST
+
+### Ferramentas e Deploy
+- Git
+- GitHub
+- Docker
+- Cloudflare Workers
+- Render
+- Aiven
+- Figma
+
+## Projeto em destaque — Strype
+
+O **Strype** é um projeto Full Stack de e-commerce desenvolvido durante meus estudos, integrando um frontend moderno a uma API e banco de dados hospedados na nuvem.
+
+**Arquitetura em produção:**
+
+`Angular 22` → `Cloudflare Workers` → `Spring Boot / Java 21` → `Render` → `MySQL / Aiven`
+
+Durante o deploy, trabalhei com **Docker, variáveis de ambiente, CORS, JDBC com SSL, build de produção e integração entre frontend, API e banco de dados**.
+
+- Site: https://strype-frontend.henriquegdall.workers.dev/
+- Repositório: https://github.com/hericota/Strype
+
+## Outros projetos
+
+Também desenvolvo projetos envolvendo Angular, JavaScript, Node.js, Python e automações, incluindo um **bot para Discord** com comandos e gerenciamento de aniversários por servidor.
+
+## Atualmente estudando
+
+- Desenvolvimento Front-End com Angular
+- TypeScript
+- Arquitetura de aplicações web
+- Integração com APIs REST
+- Desenvolvimento Full Stack
+- Deploy e infraestrutura para aplicações web
+
+## Objetivo
+
+Busco continuar evoluindo como desenvolvedor, participar de projetos reais e conquistar oportunidades profissionais na área de tecnologia.
+
+---
+
+### Contato
+
+[GitHub](https://github.com/hericota)
