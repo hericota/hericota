@@ -1,12 +1,12 @@
 # Olá, eu sou Henrique Galvão
 
-### Desenvolvedor Full Stack em formação
+### Desenvolvedor Front-End em formação
 
-Sou desenvolvedor com foco atual em **Front-End**, especialmente **Angular e TypeScript**, e também possuo experiência com desenvolvimento **Back-End**. Comecei meus estudos em programação com Python e JavaScript e, ao longo do tempo, ampliei meus conhecimentos para criação de aplicações web completas.
+Tenho foco em **desenvolvimento Front-End**, principalmente com **Angular e TypeScript**. Comecei meus estudos em programação há alguns anos com Python e JavaScript e também tive contato com React, HTML e CSS.
 
-Atualmente participo do **Entra21**, onde venho desenvolvendo projetos práticos e aprimorando minhas habilidades em desenvolvimento web, integração com APIs, bancos de dados e deploy de aplicações.
+Atualmente participo do **Entra21**, onde venho desenvolvendo projetos práticos e aprimorando meus conhecimentos em desenvolvimento web, consumo de APIs e publicação de aplicações.
 
-## Tecnologias
+## Tecnologias que utilizo
 
 ### Front-End
 - Angular
@@ -16,52 +16,52 @@ Atualmente participo do **Entra21**, onde venho desenvolvendo projetos práticos
 - HTML5
 - CSS3
 
-### Back-End e Banco de Dados
-- Java
-- Spring Boot
+### Outros conhecimentos
 - Python
 - Node.js
+- Consumo de APIs REST
 - MySQL
-- APIs REST
 
-### Ferramentas e Deploy
+### Ferramentas
 - Git
 - GitHub
-- Docker
-- Cloudflare Workers
-- Render
-- Aiven
 - Figma
+- VS Code
 
 ## Projeto em destaque — Strype
 
-O **Strype** é um projeto Full Stack de e-commerce desenvolvido durante meus estudos, integrando um frontend moderno a uma API e banco de dados hospedados na nuvem.
+O **Strype** é um projeto de e-commerce desenvolvido durante meus estudos. Trabalhei principalmente no **Front-End com Angular**, criando páginas, componentes, responsividade, pesquisa e filtros, gerenciamento de produtos e integração com uma API REST.
 
-**Arquitetura em produção:**
+A API utilizada pelo projeto foi **desenvolvida separadamente por outro desenvolvedor**. Meu trabalho não envolveu o desenvolvimento dessa API em Java/Spring Boot.
 
-`Angular 22` → `Cloudflare Workers` → `Spring Boot / Java 21` → `Render` → `MySQL / Aiven`
+Na etapa de publicação, participei da configuração necessária para colocar o projeto completo online, conectando o frontend à API e ao banco de dados em ambiente de produção.
 
-Durante o deploy, trabalhei com **Docker, variáveis de ambiente, CORS, JDBC com SSL, build de produção e integração entre frontend, API e banco de dados**.
+**Estrutura utilizada na publicação:**
+
+`Angular 22 / Cloudflare Workers` → `API existente / Render` → `MySQL / Aiven`
+
+Nesse processo tive contato prático com **variáveis de ambiente, CORS, configuração de URL da API, build de produção e deploy**.
 
 - Site: https://strype-frontend.henriquegdall.workers.dev/
 - Repositório: https://github.com/hericota/Strype
 
 ## Outros projetos
 
-Também desenvolvo projetos envolvendo Angular, JavaScript, Node.js, Python e automações, incluindo um **bot para Discord** com comandos e gerenciamento de aniversários por servidor.
+Também desenvolvo projetos para praticar Angular, JavaScript, Node.js e Python, além de automações como um **bot para Discord** com comandos e gerenciamento de aniversários por servidor.
 
 ## Atualmente estudando
 
-- Desenvolvimento Front-End com Angular
+- Angular
 - TypeScript
-- Arquitetura de aplicações web
+- Desenvolvimento Front-End
 - Integração com APIs REST
-- Desenvolvimento Full Stack
-- Deploy e infraestrutura para aplicações web
+- Responsividade
+- Estrutura e organização de aplicações web
+- Deploy de aplicações
 
 ## Objetivo
 
-Busco continuar evoluindo como desenvolvedor, participar de projetos reais e conquistar oportunidades profissionais na área de tecnologia.
+Busco continuar evoluindo como desenvolvedor, ganhar experiência com projetos reais e conquistar oportunidades profissionais na área de tecnologia.
 
 ---
 
